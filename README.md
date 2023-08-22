@@ -1,5 +1,35 @@
 # bootcamp-backend-java-class5
 
+--------------------------------------------- English version---------------------------------------------------------------------
+Individual Activities:
+
+The following activities have to be uploaded to the repository that you created in the previous class.
+
+0) Body Mass Index Calculator
+
+1) Dog Age Calculator:
+Ask the user to enter the age of their dog.
+Convert that age to dog years (1 human year is said to equal 7 dog years).
+
+2) Converter from miles to kilometers:
+Asks the user to enter a distance in miles.
+Convert the distance to kilometers using the formula: kilometers = miles * 1.60934.
+Displays the distance in kilometers to the user.
+
+3) Discount Calculator:
+Ask the user to enter the original price of a product.
+Ask the user to enter the discount percentage.
+Calculate the final price after applying the discount using the formula: finalPrice = originalPrice - (originalPrice * discount / 100).
+Shows the final price to the user.
+
+4) Tip Calculator:
+Ask the user to enter the total for the bill at a restaurant.
+Ask the user to enter the tip percentage they want to leave.
+Calculate the amount of the tip using the formula: tip = TotalBill * (PercentTip / 100).
+
+5) Game of guessing the number:
+Generates a random number between 1 and 100. Ask the user to guess the number.
+-----------------------------------------versión Español ---------------------------------------------------------------------
 Actividades Individuales:
 
 Las siguientes actividades tienes que subirlas al repositorio que creaste en la clase anterior.
@@ -27,4 +57,4 @@ Pídele al usuario que ingrese el porcentaje de propina que desea dejar.
 Calcula el monto de la propina utilizando la fórmula: propina = totalCuenta * (porcentajePropina / 100).
 
 5) Juego de adivinar el número:
-Genera un número aleatorio entre 1 y 100. Pídele al usuario que adivine el nú
+Genera un número aleatorio entre 1 y 100. Pídele al usuario que adivine el número.
