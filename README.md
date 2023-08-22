@@ -4,6 +4,7 @@ Actividades Individuales:
 
 Las siguientes actividades tienes que subirlas al repositorio que creaste en la clase anterior.
 
+0) Calculadora de Indice de Masa Corporal
 
 1) Calculadora de edad de perros:
 Pídele al usuario que ingrese la edad de su perro.
